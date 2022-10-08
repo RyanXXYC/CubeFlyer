@@ -8,6 +8,7 @@ const greetings = [
     'A Whole New Dimension!',
     'Hello, Workshop!',
     'Hello! It\'s Ryan, Coco, William, Terrie！！！',
-    'some changes!'
-
+    'some changes!',
+    'some changes!',
+    'Just breaking things :)'
 ];
